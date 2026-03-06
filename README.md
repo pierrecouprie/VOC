@@ -1,6 +1,6 @@
 # Vocabulaire
 
-Cette page contient deux fichier (voir ci-dessus) :
+Cette page contient deux fichiers (voir ci-dessus) :
 
 - Webographie
 - Filmographie
